@@ -1,0 +1,10 @@
+{
+  "name": "edgespark",
+  "version": "0.0.1",
+  "description": "Build full-stack apps on EdgeSpark with database, auth, and file storage.",
+  "mcpServers": {
+    "edgespark-docs": {
+      "httpUrl": "https://docs.edgespark.dev/mcp"
+    }
+  }
+}
